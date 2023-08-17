@@ -33,10 +33,9 @@
 
 		<!-- TestNG Spring dependency -->
 		<dependency>
-			<groupId>org.testng</groupId>
-			<artifactId>testng-spring</artifactId>
-			<version>4.7</version>
-			<scope>test</scope>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.32</version>
 		</dependency>
 	</dependencies>
 </project>
